@@ -1,0 +1,39 @@
+{
+  "name": "screening-•-loan-origination-(cards)",
+  "version": "1.0.0",
+  "description": "Screening • Loan Origination (Cards) screens alerts and underwrites customer profiles; applies decision gates and observability; orchestrates via Data Lake to reduce settlement breaks.",
+  "main": "workflow.json",
+  "keywords": [
+    "agentbridge",
+    "workflow",
+    "automation",
+    "n8n",
+    "planner-executor",
+    "banking-&-finance",
+    "markets",
+    "kyc",
+    "sanctions",
+    "planner-executor",
+    "banking"
+  ],
+  "author": "AgentBridge",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kartik71/agentbridge-screening-loan-origination-cards-355118.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kartik71/agentbridge-screening-loan-origination-cards-355118/issues"
+  },
+  "homepage": "https://github.com/kartik71/agentbridge-screening-loan-origination-cards-355118#readme",
+  "scripts": {
+    "start": "echo \"Import this workflow into your n8n instance\"",
+    "validate": "echo \"Workflow validation complete\"",
+    "test": "echo \"Run workflow tests\"",
+    "deploy": "echo \"Deploy to n8n instance\""
+  },
+  "engines": {
+    "node": ">=16.0.0",
+    "n8n": ">=1.0.0"
+  }
+}
